@@ -1,11 +1,8 @@
-# Commercial support
+# Commercial support options
 
-Commercial support for k0s if offered by [Mirantis Inc.](https://mirantis.com).
+Commercial support for k0s is offered by [Mirantis Inc.](https://www.mirantis.com/software/k0s)
 
-Mirantis can provide various different levels of support starting from DevCare (9-to-5) all the way to OpsCare+ with fully managed service.
+Mirantis provides several tiers of support for k0s, appropriate for any use-case. Support includes all projects in the k0s ecosystem – including k0s itself, [k0sctl](https://github.com/k0sproject/k0sctl), and [k0smotron](https://github.com/k0sproject/k0smotron).
 
-On top of our normal [release and support](releases.md) model our commercial customers have access to critical security patches even for released versions that fall outside of the Open Source maintained releases.[^1] Commercial support also includes support for k0s related tooling such as [k0sctl](https://github.com/k0sproject/k0sctl).
-
-If you are interested in commercial support for k0s check out our [support description](https://www.mirantis.com/support/enterprise-support-options/) and please [contact us](https://www.mirantis.com/contact/) for further details.
-
-[^1]: This is assuming there is a compatible release of upstream project with the fix
+To learn more, please visit [https://www.mirantis.com/software/k0s](https://www.mirantis.com/software/k0s).
+___
